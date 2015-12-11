@@ -1,0 +1,28 @@
+name: Andrea Wrobel
+favicon: null
+layout_spectrum: 0.9549053956288844
+typography_spectrum: 0.05176355945877731
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.03676021611317992
+  lightness: 0.7011097320355475
+  saturation: 0.12979229958727956
+  rhythmicContrast: 0.8711823036428541
+purpose: []
